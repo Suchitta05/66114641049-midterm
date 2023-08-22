@@ -17,7 +17,7 @@ function Contact() {
         }}
       >
         <img
-          src="/04.jpg"
+          src="/66114641049-midterm/04.jpg"
           style={{ width: "300px", height: "300px" }}
         ></img>
         <h1>สุจิตรา มูลพันธ์</h1>
